@@ -19,7 +19,7 @@ depand on the button you click the count decrease/increase/reset
 <img src='https://ik.imagekit.io/mtbrfqmmh/Counter_vSTXjGY7J.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663103060335' alt='Counter-giff' height='200'> 
 
 ### 3. Reviews: 
-Randoms reviews from an array that I created with previous , next and random button.
+Randoms reviews from an array that I created with previous , next and random buttons.
 
 <img src='https://ik.imagekit.io/mtbrfqmmh/reviews_ETXEtIlbK.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663104054181' alt='Counter-giff' height='200'>
 
