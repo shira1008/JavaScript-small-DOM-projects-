@@ -1,10 +1,10 @@
 # JavaScript small DOM projects
 
- Just started to learn JS and build some small projects.😎
+I've just started learning JS and build some small projects.😎
  
 (I decided not sharing two projects, so that's why I skipped some numbers)
 
-### 1. Background color changer :
+### 1. Background color changer:
 changing the backgrond color, 
 I created two options: simple and hex
 - Simple : using an array of 8 colors that I set.
