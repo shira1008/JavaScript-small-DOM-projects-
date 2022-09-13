@@ -35,7 +35,7 @@ A simple modal
 ### 7. questions: 
 Created accordion
 
-<img src='https://ik.imagekit.io/mtbrfqmmh/accordion_ucOrwlQDx.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663104053080' alt='Accordion-giff' height='200'>
+<img src='https://ik.imagekit.io/mtbrfqmmh/accordion_ucOrwlQDx.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663104053080' alt='Accordion-giff' height='250'>
 
 ### 8. Menu: 
 I created a menu, functionality on click: display items that have the same category as the btn. 
