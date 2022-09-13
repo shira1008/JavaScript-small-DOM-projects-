@@ -21,6 +21,9 @@ depand on the button you click the count decrease/increase/reset
 ### 3. Reviews: 
 Randoms reviews from an array that I created with previous , next and random button.
 
+<img src='https://ik.imagekit.io/mtbrfqmmh/reviews_ETXEtIlbK.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663104054181' alt='Counter-giff' height='200'>
+
+
 ### 4. Navbar: 
 responsive, I created the functionality for small screens
 
@@ -32,11 +35,16 @@ A simple modal
 ### 7. questions: 
 Created accordion
 
+<img src='https://ik.imagekit.io/mtbrfqmmh/accordion_ucOrwlQDx.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663104053080' alt='Accordion-giff' height='200'>
+
 ### 8. Menu: 
 I created a menu, functionality on click: display items that have the same category as the btn. 
 
+<img src='https://ik.imagekit.io/mtbrfqmmh/menu_l4Sf1OuxY.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663104054521' alt='Menu-giff' height='200'>
+
 ### 12. Count down:
 KEYBOARD GIVEAWAY -  calculate and display when the giveaway ends , not a real deadline -> alwayes 10 days from now
+<img src='https://ik.imagekit.io/mtbrfqmmh/keyboard_Wd4c73b6x.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663104054333' alt='CountDown-giff' height='200'>
 
 ### 13. Lorem ipsum generator 
 
