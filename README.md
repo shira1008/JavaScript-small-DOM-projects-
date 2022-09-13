@@ -12,7 +12,7 @@ I created two options: simple and hex
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://ik.imagekit.io/mtbrfqmmh/ColorFlipper_m0NXpPyn3.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663102266481' alt='BackgroundColorFlipper-giff' height='40'>](https://github.com/shira1008)  
+[<img src='https://ik.imagekit.io/mtbrfqmmh/ColorFlipper_m0NXpPyn3.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663102266481' alt='BackgroundColorFlipper-giff' height='40'>](https://github.com/shira1008)  
 
 ### 2. Counter: 
 depand on the button you click the count decrease/increase/reset 
