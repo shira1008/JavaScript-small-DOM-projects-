@@ -6,7 +6,7 @@
 
 ### 1. Background color flipper :
 changing the backgrond color, 
-I created two options: simple and hex:
+I created two options: simple and hex
 - Simple : using an array of 8 colors that I set.
 - Hex : using an array witn numbers 0-9 and letters A-F and randomly crate an hex value.
 
