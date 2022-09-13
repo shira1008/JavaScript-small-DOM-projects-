@@ -1,10 +1,11 @@
 # JavaScript small DOM projects
 
-##Just started to learn JS, build some small projects. 
+ Just started to learn JS build some small projects. 
 *(I did more projects but decided to share a part, so that's why I skipped some numbers)*
 
-###1. Background color flipper - changing the backgrond color:
-I created two options: simple and hex
+###1. Background color flipper 
+changing the backgrond color
+I created two options: simple and hex:
 - Simple : using an array of 8 colors that I set.
 - Hex : using an array witn numbers 0-9 and letters A-F and randomly crate an hex value.
 
