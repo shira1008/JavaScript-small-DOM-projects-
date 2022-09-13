@@ -44,7 +44,7 @@ I created a menu, functionality on click: display items that have the same categ
 
 ### 12. Count down:
 KEYBOARD GIVEAWAY: calculate and display when the giveaway ends, </br>
-not a real deadline because I want this to never end -> alwayes 10 days from now
+not a real deadline because I want it to never end -> alwayes 10 days from now
 
 <img src='https://ik.imagekit.io/mtbrfqmmh/keyboard_Wd4c73b6x.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663104054333' alt='CountDown-giff' height='200'>
 
