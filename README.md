@@ -32,7 +32,7 @@ A simple modal
 ### 7. questions: 
 Created accordion
 
-### 8. Menue: 
+### 8. Menu: 
 I created a menu, functionality on click: display items that have the same category as the btn. 
 
 ### 12. Count down:
