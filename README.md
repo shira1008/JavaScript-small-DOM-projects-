@@ -43,8 +43,9 @@ I created a menu, functionality on click: display items that have the same categ
 <img src='https://ik.imagekit.io/mtbrfqmmh/menu_l4Sf1OuxY.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663104054521' alt='Menu-giff' height='200'>
 
 ### 12. Count down:
-KEYBOARD GIVEAWAY -  calculate and display when the giveaway ends , not a real deadline -> alwayes 10 days from now
+KEYBOARD GIVEAWAY -  calculate and display when the giveaway ends , not a real deadline because I want this to ever end -> alwayes 10 days from now
 <img src='https://ik.imagekit.io/mtbrfqmmh/keyboard_Wd4c73b6x.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663104054333' alt='CountDown-giff' height='200'>
+
 
 ### 13. Lorem ipsum generator 
 
