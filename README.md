@@ -4,7 +4,7 @@
  
 (I decided not sharing two projects, so that's why I skipped some numbers)
 
-### 1. Background color flipper :
+### 1. Background color changer :
 changing the backgrond color, 
 I created two options: simple and hex
 - Simple : using an array of 8 colors that I set.
