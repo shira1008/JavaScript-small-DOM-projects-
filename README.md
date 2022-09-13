@@ -10,6 +10,9 @@ I created two options: simple and hex
 - Simple : using an array of 8 colors that I set.
 - Hex : using an array witn numbers 0-9 and letters A-F and randomly crate an hex value.
 
+![BackgroundColorFlipper-giff](https://ik.imagekit.io/mtbrfqmmh/ColorFlipper_m0NXpPyn3.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663102266481)
+
+
 ### 2. Counter: 
 depand on the button you click the count decrease/increase/reset 
 
