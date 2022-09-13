@@ -1,7 +1,8 @@
 # JavaScript small DOM projects
 
- Just started to learn JS build some small projects. 
-*(I did more projects but decided to share a part, so that's why I skipped some numbers)*
+ Just started to learn JS and build some small projects.😎
+ 
+(I did more projects but decided to share a part, so that's why I skipped some numbers)
 
 ### 1. Background color flipper 
 changing the backgrond color
