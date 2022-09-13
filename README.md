@@ -2,7 +2,7 @@
 
  Just started to learn JS and build some small projects.😎
  
-(I did more projects but decided to share a part, so that's why I skipped some numbers)
+(I decided not sharing two projects, so that's why I skipped some numbers)
 
 ### 1. Background color flipper 
 changing the backgrond color
