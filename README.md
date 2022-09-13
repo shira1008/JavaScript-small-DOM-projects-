@@ -28,6 +28,8 @@ Randoms reviews from an array that I created with previous , next and random but
 responsive, I created the functionality for small screens
 
 ### 5. Sidebar
+<img src='https://ik.imagekit.io/mtbrfqmmh/sidebar-gif-maker_wEkX44_z0.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663105593588' alt='Counter-giff' height='200'>
+
 
 ### 6. Modal: 
 A simple modal
