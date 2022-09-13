@@ -12,7 +12,7 @@ I created two options: simple and hex
 
 
 
-[<img src='https://ik.imagekit.io/mtbrfqmmh/ColorFlipper_m0NXpPyn3.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663102266481' alt='BackgroundColorFlipper-giff' height='200'>]
+[<img src='https://ik.imagekit.io/mtbrfqmmh/ColorFlipper_m0NXpPyn3.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663102266481' alt='BackgroundColorFlipper-giff' height='200'>](https://github.com/shira1008/JavaScript-small-DOM-projects-/tree/main/project1%20-%20backgroundColor/setup)  
 
 ### 2. Counter: 
 depand on the button you click the count decrease/increase/reset 
